@@ -1,0 +1,22 @@
+{
+      "Results": [
+        {
+          "TestCase": "Test 1",
+          "Status": "pass",
+          "ExecutionTime": 10,
+          "Timestamp": "2024-03-13T12:00:00Z"
+        },
+        {
+          "TestCase": "Test 2",
+          "Status": "fail",
+          "ExecutionTime": 15,
+          "Timestamp": "2024-03-13T12:05:00Z"
+        },
+        {
+          "TestCase": "Test 3",
+          "Status": "pass",
+          "ExecutionTime": 8,
+          "Timestamp": "2024-03-13T12:10:00Z"
+        }
+      ]
+    }
